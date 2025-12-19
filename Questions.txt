@@ -1,0 +1,10 @@
+Q1 Retrive all successful bookings
+Q2 Find the average ride distance for each vehicle type
+Q3 Get the total number of canceled rides by customers;
+Q4 list the top 5 customer who booked the highest number of rides;
+Q5 Get the number of rides cancelled by driver due to personal and car related issues;
+Q6 find the maximum and minimum driver rating for prime sedan
+Q7 retrive all rides where payment was made using upi
+Q8 find the average customer rating per vehicle type
+Q9 calculate the total booking value of rides compeleted successfully
+Q10 list all incomplete rides along with the reason
